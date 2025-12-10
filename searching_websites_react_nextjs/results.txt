@@ -1,0 +1,1546 @@
+React & Next.js Framework Finder - Live Results\nStarted: 2025-12-10 18:56:27\n================================================================================\nMonitor this file with: tail -f results.txt\n================================================================================\n
+================================================================================
+[2025-12-10 18:56:27] Checking: https://dns.watch
+Status Code: 200
+Frameworks: ['angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 18:56:37] Checking: https://hatching.io
+Status Code: 200
+Frameworks: ['angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 18:56:46] Checking: https://therecord.media
+Status Code: 200
+Frameworks: ['ember', 'react', 'angular', 'nextjs']
+✓ MATCH: NEXTJS detected
+Reason: Found NEXTJS
+
+================================================================================
+[2025-12-10 18:56:55] Checking: https://bgpview.io
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 18:56:59] Checking: https://tria.ge
+Status Code: 200
+Frameworks: ['ember']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 18:57:06] Checking: https://id.recordedfuture.com
+Status Code: 200
+Frameworks: []
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 18:57:14] Checking: https://app.recordedfuture.com
+Status Code: 200
+Frameworks: ['angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 18:57:25] Checking: https://www.recordedfuture.com
+Status Code: 200
+Frameworks: ['angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 18:57:31] Checking: https://geminiadvisory.io
+Status Code: 403
+Frameworks: []
+✗ SKIP: Non-200 status code: 403
+
+================================================================================
+[2025-12-10 18:57:36] Checking: https://securitytrails.com
+Status Code: 403
+Frameworks: []
+✗ SKIP: Non-200 status code: 403
+
+================================================================================
+[2025-12-10 18:57:39] Checking: https://api.recordedfuture.com
+Status Code: 200
+Frameworks: []
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 18:57:52] Checking: https://app.overloop.com
+Status Code: 200
+Frameworks: ['ember']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 18:58:08] Checking: https://hex.tech
+Status Code: 200
+Frameworks: ['react', 'angular']
+✓ MATCH: REACT detected
+Reason: Found REACT
+
+================================================================================
+[2025-12-10 18:58:43] Checking: https://app.hex.tech
+Status Code: 200
+Frameworks: ['react', 'angular']
+✓ MATCH: REACT detected
+Reason: Found REACT
+
+================================================================================
+[2025-12-10 18:58:56] Checking: https://www.oppo.com/id/store
+Status Code: 200
+Frameworks: ['ember', 'vue', 'angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 18:59:07] Checking: https://safe.heytap.com/
+Status Code: 200
+Frameworks: ['angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 18:59:21] Checking: https://www.opposhop.cn/m/
+Status Code: 200
+Frameworks: ['ember', 'angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 18:59:41] Checking: https://u.oppomobile.com/
+Status Code: 200
+Frameworks: ['react']
+✓ MATCH: REACT detected
+Reason: Found REACT
+
+================================================================================
+[2025-12-10 19:00:07] Checking: https://www.oppo.com/th/store
+Status Code: 200
+Frameworks: ['ember', 'vue', 'angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:00:24] Checking: https://www.oppo.com/th
+Status Code: 200
+Frameworks: ['ember', 'vue', 'angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:00:32] Checking: https://e.oppo.com/
+Status Code: 200
+Frameworks: ['angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:01:05] Checking: https://cloud.oppo.com/
+Status Code: 200
+Frameworks: ['vue', 'angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:01:21] Checking: https://www.opposhop.cn/
+Status Code: 200
+Frameworks: ['ember', 'angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:01:32] Checking: https://id.oppo.com
+Status Code: 200
+Frameworks: []
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:01:42] Checking: https://id.heytap.com
+Status Code: 200
+Frameworks: []
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:01:54] Checking: https://gcsm.oppoit.com/
+Status Code: 200
+Frameworks: []
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:02:43] Checking: https://opposhop.cn
+Status Code: 200
+Frameworks: ['ember', 'angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:02:58] Checking: https://drp.myoppo.com/
+Status Code: 200
+Frameworks: ['react']
+✓ MATCH: REACT detected
+Reason: Found REACT
+
+================================================================================
+[2025-12-10 19:03:31] Checking: https://www.oppo.com/my/store
+Status Code: 200
+Frameworks: ['ember', 'vue', 'angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:03:40] Checking: https://www.oppo.com/in/store
+Status Code: 200
+Frameworks: ['ember', 'vue', 'angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:03:58] Checking: https://www.alohi.com
+Status Code: 200
+Frameworks: ['angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:04:05] Checking: https://sign.plus
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:04:30] Checking: https://fax.plus
+Status Code: 200
+Frameworks: ['ember', 'angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:04:45] Checking: https://mongodb.com/*
+Status Code: 404
+Frameworks: []
+✗ SKIP: Non-200 status code: 404
+
+================================================================================
+[2025-12-10 19:04:54] Checking: https://fromspotify.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:04:57] Checking: https://enspotify.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:05:02] Checking: https://tospotify.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:05:07] Checking: https://backstage.io
+Status Code: 200
+Frameworks: ['angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:05:16] Checking: https://assets.spotify.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:05:20] Checking: https://withspotify.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:05:24] Checking: https://forspotify.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:05:29] Checking: https://avecspotify.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:05:33] Checking: https://spotify.net
+Status Code: 200
+Frameworks: ['ember', 'angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:05:44] Checking: https://api.spotify.com
+Status Code: 200
+Frameworks: ['angular', 'nextjs', 'react']
+✓ MATCH: NEXTJS detected
+Reason: Found NEXTJS
+
+================================================================================
+[2025-12-10 19:05:53] Checking: https://atspotify.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:05:58] Checking: https://byspotify.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:06:02] Checking: https://www.whosampled.com/
+Status Code: 200
+Frameworks: ['react', 'angular']
+✓ MATCH: REACT detected
+Reason: Found REACT
+
+================================================================================
+[2025-12-10 19:06:11] Checking: https://spotify.com
+Status Code: 200
+Frameworks: ['angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:06:29] Checking: https://support.nutanix.com
+Status Code: 200
+Frameworks: ['ember', 'angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:06:58] Checking: https://ticket.nutanix.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:07:46] Checking: https://jira.nutanix.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:07:50] Checking: https://install.nutanix.com
+Status Code: 200
+Frameworks: []
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:08:04] Checking: https://bootcamp.nutanix.com
+Status Code: 200
+Frameworks: []
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:08:27] Checking: https://productsizer.nutanix.com
+Status Code: 200
+Frameworks: []
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:08:53] Checking: https://gp.nutanix.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:09:43] Checking: https://stage-billing.nutanix.com
+Status Code: 403
+Frameworks: []
+✗ SKIP: Non-200 status code: 403
+
+================================================================================
+[2025-12-10 19:09:47] Checking: https://idp.nutanix.com
+Status Code: 403
+Frameworks: []
+✗ SKIP: Non-200 status code: 403
+
+================================================================================
+[2025-12-10 19:09:52] Checking: https://cpq.nutanix.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:09:55] Checking: https://testdrive.nutanix.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:09:58] Checking: https://iot.nutanix.com
+Status Code: 400
+Frameworks: []
+✗ SKIP: Non-200 status code: 400
+
+================================================================================
+[2025-12-10 19:10:02] Checking: https://www.nutanix.dev
+Status Code: 200
+Frameworks: ['ember', 'react', 'angular']
+✓ MATCH: REACT detected
+Reason: Found REACT
+
+================================================================================
+[2025-12-10 19:10:13] Checking: https://beam.nutanix.com
+Status Code: 200
+Frameworks: ['angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:10:24] Checking: https://nutanix.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:10:49] Checking: https://my.nutanix.com
+Status Code: 200
+Frameworks: []
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:11:03] Checking: https://bleepplc.co.uk
+Status Code: 200
+Frameworks: ['ember', 'angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:11:18] Checking: http://portal-staging.storman.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:11:47] Checking: http://cloud-sbox.storman.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:12:14] Checking: https://pcamerica.com
+Status Code: 403
+Frameworks: []
+✗ SKIP: Non-200 status code: 403
+
+================================================================================
+[2025-12-10 19:12:19] Checking: https://developer.globalpay.com
+Status Code: 200
+Frameworks: ['react', 'angular']
+✓ MATCH: REACT detected
+Reason: Found REACT
+
+================================================================================
+[2025-12-10 19:12:44] Checking: https://pay.tokopediax.com
+Status Code: 404
+Frameworks: []
+✗ SKIP: Non-200 status code: 404
+
+================================================================================
+[2025-12-10 19:12:47] Checking: https://fp-sg.tiktokv.com
+Status Code: 404
+Frameworks: []
+✗ SKIP: Non-200 status code: 404
+
+================================================================================
+[2025-12-10 19:12:55] Checking: https://creatormarketplace.tiktok.com
+Status Code: 200
+Frameworks: ['react', 'angular']
+✓ MATCH: REACT detected
+Reason: Found REACT
+
+================================================================================
+[2025-12-10 19:13:11] Checking: https://careers.tiktok.com
+Status Code: 200
+Frameworks: ['ember', 'angular', 'nextjs', 'react']
+✓ MATCH: NEXTJS detected
+Reason: Found NEXTJS
+
+================================================================================
+[2025-12-10 19:13:38] Checking: https://effecthouse.tiktok.com
+Status Code: 200
+Frameworks: ['angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:14:09] Checking: https://partner.tiktokshop.com
+Status Code: 200
+Frameworks: ['ember', 'react', 'angular']
+✓ MATCH: REACT detected
+Reason: Found REACT
+
+================================================================================
+[2025-12-10 19:14:20] Checking: https://tiktokpublishers.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:14:23] Checking: https://www.pangleglobal.com
+Status Code: 200
+Frameworks: ['ember', 'react', 'angular']
+✓ MATCH: REACT detected
+Reason: Found REACT
+
+================================================================================
+[2025-12-10 19:14:42] Checking: https://live-backstage.tiktok.com
+Status Code: 200
+Frameworks: ['react', 'angular']
+✓ MATCH: REACT detected
+Reason: Found REACT
+
+================================================================================
+[2025-12-10 19:14:54] Checking: https://shop.tiktok.com
+Status Code: 200
+Frameworks: ['ember', 'react', 'angular']
+✓ MATCH: REACT detected
+Reason: Found REACT
+
+================================================================================
+[2025-12-10 19:15:08] Checking: https://academy-outbound-ads.tiktok.com
+Status Code: 200
+Frameworks: []
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:15:23] Checking: https://*.tiktokv.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:15:25] Checking: https://shop-id.tokopedia.com
+Status Code: 200
+Frameworks: ['ember', 'react', 'angular']
+✓ MATCH: REACT detected
+Reason: Found REACT
+
+================================================================================
+[2025-12-10 19:15:35] Checking: https://tiktokcdn.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:15:41] Checking: https://business.tiktok.com
+Status Code: 200
+Frameworks: ['ember', 'react', 'vue', 'angular', 'nextjs']
+✓ MATCH: NEXTJS detected
+Reason: Found NEXTJS
+
+================================================================================
+[2025-12-10 19:15:55] Checking: https://pipopay.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:16:00] Checking: https://*.tiktok.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:16:03] Checking: https://affiliate-id.tokopedia.com
+Status Code: 200
+Frameworks: ['angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:16:13] Checking: https://tiktok.com
+Status Code: 200
+Frameworks: ['ember', 'react', 'angular']
+✓ MATCH: REACT detected
+Reason: Found REACT
+
+================================================================================
+[2025-12-10 19:16:27] Checking: https://seller-id.tokopedia.com
+Status Code: 200
+Frameworks: ['react', 'angular']
+✓ MATCH: REACT detected
+Reason: Found REACT
+
+================================================================================
+[2025-12-10 19:16:39] Checking: https://developers.tiktok.com
+Status Code: 200
+Frameworks: ['ember', 'react', 'angular']
+✓ MATCH: REACT detected
+Reason: Found REACT
+
+================================================================================
+[2025-12-10 19:17:02] Checking: https://ads.tiktok.com
+Status Code: 200
+Frameworks: ['ember', 'react', 'vue', 'angular']
+✓ MATCH: REACT detected
+Reason: Found REACT
+
+================================================================================
+[2025-12-10 19:17:18] Checking: https://lightstep.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:17:36] Checking: https://*.service-now.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:17:38] Checking: https://*.servicenow.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:17:46] Checking: https://www.bitmex.com
+Status Code: 200
+Frameworks: ['ember', 'angular', 'nextjs', 'react']
+✓ MATCH: NEXTJS detected
+Reason: Found NEXTJS
+
+================================================================================
+[2025-12-10 19:17:58] Checking: https://bitmex.com
+Status Code: 200
+Frameworks: ['ember', 'angular', 'nextjs', 'react']
+✓ MATCH: NEXTJS detected
+Reason: Found NEXTJS
+
+================================================================================
+[2025-12-10 19:18:05] Checking: https://testnet.bitmex.com
+Status Code: 200
+Frameworks: ['angular', 'nextjs', 'react']
+✓ MATCH: NEXTJS detected
+Reason: Found NEXTJS
+
+================================================================================
+[2025-12-10 19:18:20] Checking: https://trade.ripio.com
+Status Code: 200
+Frameworks: ['angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:18:30] Checking: https://sandbox-b2b.ripio.com
+Status Code: 404
+Frameworks: []
+✗ SKIP: Non-200 status code: 404
+
+================================================================================
+[2025-12-10 19:18:35] Checking: https://*ripiotrade.co
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:18:38] Checking: https://*ripio.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:18:43] Checking: http://auth.ripio.com
+Status Code: 200
+Frameworks: []
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:18:59] Checking: https://app.ripio.com
+Status Code: 200
+Frameworks: []
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:19:07] Checking: https://kyc.ripio.com/
+Status Code: 200
+Frameworks: []
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:19:21] Checking: https://defi.ripio.com
+Status Code: 404
+Frameworks: []
+✗ SKIP: Non-200 status code: 404
+
+================================================================================
+[2025-12-10 19:19:30] Checking: https://ws.sorare.com
+Status Code: 403
+Frameworks: []
+✗ SKIP: Non-200 status code: 403
+
+================================================================================
+[2025-12-10 19:19:34] Checking: https://sorare.com
+Status Code: 200
+Frameworks: []
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:19:42] Checking: https://api.sorare.com
+Status Code: 404
+Frameworks: []
+✗ SKIP: Non-200 status code: 404
+
+================================================================================
+[2025-12-10 19:19:52] Checking: https://games2gether.com
+Status Code: 200
+Frameworks: ['react', 'angular']
+✓ MATCH: REACT detected
+Reason: Found REACT
+
+================================================================================
+[2025-12-10 19:20:00] Checking: https://redeem.footballmanager.com
+Status Code: 200
+Frameworks: ['ember', 'angular', 'nextjs', 'react']
+✓ MATCH: NEXTJS detected
+Reason: Found NEXTJS
+
+================================================================================
+[2025-12-10 19:20:10] Checking: https://community.twopointcounty.com
+Status Code: 200
+Frameworks: ['ember', 'react', 'angular']
+✓ MATCH: REACT detected
+Reason: Found REACT
+
+================================================================================
+[2025-12-10 19:20:25] Checking: https://mailfoogae.appspot.com
+Status Code: 200
+Frameworks: ['ember', 'angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:20:59] Checking: https://streaklinks.com
+Status Code: 200
+Frameworks: ['ember', 'angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:21:14] Checking: https://www.streak.com
+Status Code: 200
+Frameworks: ['ember', 'angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:21:37] Checking: https://api.streak.com
+Status Code: 200
+Frameworks: ['ember', 'angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:22:05] Checking: https://hg.mozilla.org
+Status Code: 200
+Frameworks: ['angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:22:14] Checking: https://developer.mozilla.org
+Status Code: 200
+Frameworks: ['ember', 'angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:22:21] Checking: https://firefox.settings.services.mozilla.com
+Status Code: 200
+Frameworks: ['angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:22:28] Checking: https://merino.services.mozilla.com
+Status Code: 200
+Frameworks: []
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:22:38] Checking: https://lando.services.mozilla.com
+Status Code: 200
+Frameworks: []
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:22:47] Checking: https://vpn.mozilla.org
+Status Code: 200
+Frameworks: ['angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:22:56] Checking: https://sync.services.mozilla.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:22:59] Checking: https://crash-reports.allizom.org
+Status Code: 404
+Frameworks: []
+✗ SKIP: Non-200 status code: 404
+
+================================================================================
+[2025-12-10 19:23:03] Checking: https://crash-stats.allizom.org
+Status Code: 200
+Frameworks: []
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:23:12] Checking: https://push.services.mozilla.com
+Status Code: 500
+Frameworks: []
+✗ SKIP: Non-200 status code: 500
+
+================================================================================
+[2025-12-10 19:23:15] Checking: https://api.profiler.firefox.com
+Status Code: 200
+Frameworks: []
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:23:21] Checking: https://addons.allizom.org
+Status Code: 200
+Frameworks: ['ember', 'react', 'angular']
+✓ MATCH: REACT detected
+Reason: Found REACT
+
+================================================================================
+[2025-12-10 19:23:31] Checking: https://profiler.firefox.com
+Status Code: 200
+Frameworks: []
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:23:39] Checking: https://pontoon.allizom.org
+Status Code: 200
+Frameworks: []
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:23:47] Checking: https://support.mozilla.org
+Status Code: 200
+Frameworks: ['angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:23:56] Checking: https://stage.taskcluster.nonprod.cloudops.mozgcp.net
+Status Code: 200
+Frameworks: []
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:24:05] Checking: https://bugzilla.mozilla.org
+Status Code: 200
+Frameworks: ['ember', 'angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:24:17] Checking: https://relay.firefox.com
+Status Code: 200
+Frameworks: ['react', 'angular', 'nextjs']
+✓ MATCH: NEXTJS detected
+Reason: Found NEXTJS
+
+================================================================================
+[2025-12-10 19:24:26] Checking: https://www.firefox.com
+Status Code: 200
+Frameworks: ['angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:24:34] Checking: https://www.mozilla.org
+Status Code: 200
+Frameworks: ['angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:24:42] Checking: https://accounts.firefox.com
+Status Code: 200
+Frameworks: ['react', 'angular']
+✓ MATCH: REACT detected
+Reason: Found REACT
+
+================================================================================
+[2025-12-10 19:24:49] Checking: https://community-tc.services.mozilla.com
+Status Code: 200
+Frameworks: []
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:24:59] Checking: https://aus5.mozilla.org
+Status Code: 404
+Frameworks: []
+✗ SKIP: Non-200 status code: 404
+
+================================================================================
+[2025-12-10 19:25:02] Checking: https://monitor.mozilla.org
+Status Code: 406
+Frameworks: []
+✗ SKIP: Non-200 status code: 406
+
+================================================================================
+[2025-12-10 19:25:04] Checking: https://firefox-ci-tc.services.mozilla.com
+Status Code: 200
+Frameworks: []
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:25:14] Checking: https://phabricator.allizom.org
+Status Code: 200
+Frameworks: []
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:25:31] Checking: http://www.bybit.com/trade/tradfi/
+Status Code: 200
+Frameworks: ['react', 'angular']
+✓ MATCH: REACT detected
+Reason: Found REACT
+
+================================================================================
+[2025-12-10 19:25:39] Checking: http://www.bybit.com/en/alpha/overview/
+Status Code: 200
+Frameworks: ['react', 'nextjs']
+✓ MATCH: NEXTJS detected
+Reason: Found NEXTJS
+
+================================================================================
+[2025-12-10 19:25:48] Checking: https://bybit.tr
+Status Code: 200
+Frameworks: ['react', 'angular', 'nextjs']
+✓ MATCH: NEXTJS detected
+Reason: Found NEXTJS
+
+================================================================================
+[2025-12-10 19:25:58] Checking: http://testnet.bybit.eu
+Status Code: 200
+Frameworks: ['react', 'angular', 'nextjs']
+✓ MATCH: NEXTJS detected
+Reason: Found NEXTJS
+
+================================================================================
+[2025-12-10 19:26:16] Checking: http://www.byreal.io
+Status Code: 200
+Frameworks: ['react', 'nextjs']
+✓ MATCH: NEXTJS detected
+Reason: Found NEXTJS
+
+================================================================================
+[2025-12-10 19:26:23] Checking: https://bybit.eu
+Status Code: 200
+Frameworks: ['react', 'angular', 'nextjs']
+✓ MATCH: NEXTJS detected
+Reason: Found NEXTJS
+
+================================================================================
+[2025-12-10 19:26:32] Checking: https://bybit.com
+Status Code: 200
+Frameworks: ['react', 'angular', 'nextjs']
+✓ MATCH: NEXTJS detected
+Reason: Found NEXTJS
+
+================================================================================
+[2025-12-10 19:26:47] Checking: https://simplepoll.rocks
+Status Code: 200
+Frameworks: ['ember', 'angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:26:57] Checking: https://simplegoals.app
+Status Code: 200
+Frameworks: ['angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:27:11] Checking: https://mariadb.org
+Status Code: 200
+Frameworks: ['angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:27:31] Checking: https://www.creditkarma.com/savings
+Status Code: 200
+Frameworks: ['ember', 'angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:27:46] Checking: https://www.creditkarma.com/reviews/
+Status Code: 200
+Frameworks: ['ember', 'react', 'angular', 'nextjs']
+✓ MATCH: NEXTJS detected
+Reason: Found NEXTJS
+
+================================================================================
+[2025-12-10 19:28:02] Checking: https://blog.creditkarma.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:28:25] Checking: https://creditkarma.ca
+Status Code: 200
+Frameworks: []
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:28:37] Checking: https://accounts.creditkarma.com
+Status Code: 200
+Frameworks: ['ember', 'react', 'angular']
+✓ MATCH: REACT detected
+Reason: Found REACT
+
+================================================================================
+[2025-12-10 19:28:58] Checking: https://www.creditkarma.ca
+Status Code: 200
+Frameworks: []
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:29:09] Checking: https://creditkarma.co.uk
+Status Code: 200
+Frameworks: ['react', 'angular']
+✓ MATCH: REACT detected
+Reason: Found REACT
+
+================================================================================
+[2025-12-10 19:29:17] Checking: https://creditkarma.com
+Status Code: 200
+Frameworks: ['ember', 'react', 'angular', 'nextjs']
+✓ MATCH: NEXTJS detected
+Reason: Found NEXTJS
+
+================================================================================
+[2025-12-10 19:29:27] Checking: https://api.creditkarma.com
+Status Code: 404
+Frameworks: []
+✗ SKIP: Non-200 status code: 404
+
+================================================================================
+[2025-12-10 19:29:30] Checking: https://support.creditkarma.ca
+Status Code: 200
+Frameworks: ['ember', 'angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:29:48] Checking: https://codahosted.io
+Status Code: 404
+Frameworks: []
+✗ SKIP: Non-200 status code: 404
+
+================================================================================
+[2025-12-10 19:29:52] Checking: https://settings.superhuman.com
+Status Code: 200
+Frameworks: []
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:30:04] Checking: https://gateway.superhuman.com
+Status Code: 403
+Frameworks: []
+✗ SKIP: Non-200 status code: 403
+
+================================================================================
+[2025-12-10 19:30:08] Checking: https://codacontent.io
+Status Code: 403
+Frameworks: []
+✗ SKIP: Non-200 status code: 403
+
+================================================================================
+[2025-12-10 19:30:13] Checking: https://grammarlyaws.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:30:15] Checking: https://id.superhuman.com
+Status Code: 200
+Frameworks: ['angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:30:26] Checking: https://coda.io
+Status Code: 200
+Frameworks: ['ember', 'react', 'angular']
+✓ MATCH: REACT detected
+Reason: Found REACT
+
+================================================================================
+[2025-12-10 19:30:41] Checking: https://grammarly.io
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:30:45] Checking: https://superhuman.com
+Status Code: 200
+Frameworks: ['nextjs']
+✓ MATCH: NEXTJS detected
+Reason: Found NEXTJS
+
+================================================================================
+[2025-12-10 19:30:52] Checking: https://grammarly.com
+Status Code: 200
+Frameworks: ['react', 'angular']
+✓ MATCH: REACT detected
+Reason: Found REACT
+
+================================================================================
+[2025-12-10 19:31:05] Checking: https://coda.grammarly.com
+Status Code: 200
+Frameworks: ['react', 'angular']
+✓ MATCH: REACT detected
+Reason: Found REACT
+
+================================================================================
+[2025-12-10 19:31:16] Checking: https://app.grammarly.com
+Status Code: 200
+Frameworks: ['react', 'angular']
+✓ MATCH: REACT detected
+Reason: Found REACT
+
+================================================================================
+[2025-12-10 19:31:31] Checking: https://www.tucows.com
+Status Code: 200
+Frameworks: ['ember', 'angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:32:04] Checking: https://simplybits.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:32:31] Checking: https://tucowsdomains.com
+Status Code: 200
+Frameworks: ['react', 'angular']
+✓ MATCH: REACT detected
+Reason: Found REACT
+
+================================================================================
+[2025-12-10 19:33:04] Checking: https://tingmobile.com
+Status Code: 200
+Frameworks: ['angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:33:13] Checking: https://wavelo.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:33:38] Checking: https://opensrs.com
+Status Code: 200
+Frameworks: ['react', 'angular']
+✓ MATCH: REACT detected
+Reason: Found REACT
+
+================================================================================
+[2025-12-10 19:33:47] Checking: https://enom.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:34:12] Checking: https://ascio.com
+Status Code: 200
+Frameworks: ['react', 'angular']
+✓ MATCH: REACT detected
+Reason: Found REACT
+
+================================================================================
+[2025-12-10 19:34:22] Checking: https://exacthosting.com
+Status Code: 200
+Frameworks: ['angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:34:35] Checking: https://ting.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:34:46] Checking: https://hover.com
+Status Code: 200
+Frameworks: ['ember', 'angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:35:03] Checking: https://portal.3cx.com
+Status Code: 200
+Frameworks: ['angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:35:15] Checking: https://go.stripchat.com
+Status Code: 200
+Frameworks: ['ember', 'react', 'angular']
+✓ MATCH: REACT detected
+Reason: Found REACT
+
+================================================================================
+[2025-12-10 19:35:25] Checking: https://stripchat.com
+Status Code: 406
+Frameworks: []
+✗ SKIP: Non-200 status code: 406
+
+================================================================================
+[2025-12-10 19:35:33] Checking: http://grpc.oasis.dev
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:35:56] Checking: http://rosetta.oasis.dev/api/mainnet
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:36:17] Checking: http://emerald.oasis.dev
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:36:38] Checking: http://sapphire.oasis.io
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:37:16] Checking: https://status.oasis.io
+Status Code: 200
+Frameworks: ['ember', 'react', 'vue', 'angular']
+✓ MATCH: REACT detected
+Reason: Found REACT
+
+================================================================================
+[2025-12-10 19:37:24] Checking: https://wallet.oasis.io
+Status Code: 200
+Frameworks: []
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:37:39] Checking: https://mark8.syfe.com
+Status Code: 401
+Frameworks: []
+✗ SKIP: Non-200 status code: 401
+
+================================================================================
+[2025-12-10 19:37:44] Checking: https://alfred.syfe.com
+Status Code: 401
+Frameworks: []
+✗ SKIP: Non-200 status code: 401
+
+================================================================================
+[2025-12-10 19:37:49] Checking: https://uat-bugbounty.nonprod.syfe.com
+Status Code: 200
+Frameworks: ['angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:38:02] Checking: https://api.syfe.com
+Status Code: 403
+Frameworks: []
+✗ SKIP: Non-200 status code: 403
+
+================================================================================
+[2025-12-10 19:38:07] Checking: https://www.syfe.com
+Status Code: 200
+Frameworks: ['angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:38:15] Checking: https://api-uat-bugbounty.nonprod.syfe.com
+Status Code: 404
+Frameworks: []
+✗ SKIP: Non-200 status code: 404
+
+================================================================================
+[2025-12-10 19:38:25] Checking: http://ro.co/pharmacy
+Status Code: 403
+Frameworks: []
+✗ SKIP: Non-200 status code: 403
+
+================================================================================
+[2025-12-10 19:38:29] Checking: http://ro.co/mind
+Status Code: 403
+Frameworks: []
+✗ SKIP: Non-200 status code: 403
+
+================================================================================
+[2025-12-10 19:38:34] Checking: http://ro.co/derm
+Status Code: 403
+Frameworks: []
+✗ SKIP: Non-200 status code: 403
+
+================================================================================
+[2025-12-10 19:38:39] Checking: http://ro.co/spermkit
+Status Code: 403
+Frameworks: []
+✗ SKIP: Non-200 status code: 403
+
+================================================================================
+[2025-12-10 19:38:43] Checking: https://getroman.com
+Status Code: 403
+Frameworks: []
+✗ SKIP: Non-200 status code: 403
+
+================================================================================
+[2025-12-10 19:38:48] Checking: https://ropharmacy.com
+Status Code: 403
+Frameworks: []
+✗ SKIP: Non-200 status code: 403
+
+================================================================================
+[2025-12-10 19:38:53] Checking: https://myplenity.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:39:22] Checking: https://hellorory.com
+Status Code: 403
+Frameworks: []
+✗ SKIP: Non-200 status code: 403
+
+================================================================================
+[2025-12-10 19:39:26] Checking: https://modernfertility.com
+Status Code: 403
+Frameworks: []
+✗ SKIP: Non-200 status code: 403
+
+================================================================================
+[2025-12-10 19:39:29] Checking: https://kit.ro.co
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:39:34] Checking: https://login.ro.co
+Status Code: 403
+Frameworks: []
+✗ SKIP: Non-200 status code: 403
+
+================================================================================
+[2025-12-10 19:39:38] Checking: https://my.ro.co
+Status Code: 403
+Frameworks: []
+✗ SKIP: Non-200 status code: 403
+
+================================================================================
+[2025-12-10 19:39:42] Checking: https://ro.co
+Status Code: 403
+Frameworks: []
+✗ SKIP: Non-200 status code: 403
+
+================================================================================
+[2025-12-10 19:39:45] Checking: https://start.ro.co
+Status Code: 403
+Frameworks: []
+✗ SKIP: Non-200 status code: 403
+
+================================================================================
+[2025-12-10 19:39:48] Checking: https://ro.co/svc/auth-verifications/start.public/phone
+Status Code: 403
+Frameworks: []
+✗ SKIP: Non-200 status code: 403
+
+================================================================================
+[2025-12-10 19:39:57] Checking: https://secureui.starbucks.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:40:47] Checking: https://app.starbucks.com
+Status Code: 200
+Frameworks: ['ember', 'angular', 'nextjs']
+✓ MATCH: NEXTJS detected
+Reason: Found NEXTJS
+
+================================================================================
+[2025-12-10 19:40:56] Checking: https://openapi.starbucks.com
+Status Code: 404
+Frameworks: []
+✗ SKIP: Non-200 status code: 404
+
+================================================================================
+[2025-12-10 19:40:59] Checking: https://www.starbucks.ca
+Status Code: 200
+Frameworks: ['ember', 'angular', 'nextjs']
+✓ MATCH: NEXTJS detected
+Reason: Found NEXTJS
+
+================================================================================
+[2025-12-10 19:41:08] Checking: https://www.starbucksreserve.com
+Status Code: 200
+Frameworks: ['angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:41:20] Checking: https://www.starbucks.com
+Status Code: 200
+Frameworks: ['ember', 'angular', 'nextjs']
+✓ MATCH: NEXTJS detected
+Reason: Found NEXTJS
+
+================================================================================
+[2025-12-10 19:41:32] Checking: https://files-stg.inspectorio.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:41:35] Checking: https://app.stg.inspectorio.com
+Status Code: 200
+Frameworks: ['angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:41:45] Checking: https://report-html-sight.stg.inspectorio.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:41:50] Checking: https://docuflow.stg.inspectorio.com
+Status Code: 200
+Frameworks: []
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:41:59] Checking: https://api.stg.inspectorio.com
+Status Code: 200
+Frameworks: []
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:42:07] Checking: https://rise-api.stg.inspectorio.com
+Status Code: 404
+Frameworks: []
+✗ SKIP: Non-200 status code: 404
+
+================================================================================
+[2025-12-10 19:42:10] Checking: https://rise.stg.inspectorio.com
+Status Code: 200
+Frameworks: []
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:42:18] Checking: https://id.stg.inspectorio.com
+Status Code: 200
+Frameworks: []
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:42:31] Checking: https://api.tideplatform.in
+Status Code: 404
+Frameworks: []
+✗ SKIP: Non-200 status code: 404
+
+================================================================================
+[2025-12-10 19:42:34] Checking: https://tide.co
+Status Code: 200
+Frameworks: ['ember', 'angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:42:52] Checking: https://engineering.rei.com
+Status Code: 200
+Frameworks: ['angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:43:26] Checking: https://login.rei.com
+Status Code: 403
+Frameworks: []
+✗ SKIP: Non-200 status code: 403
+
+================================================================================
+[2025-12-10 19:43:30] Checking: http://collaboration.rei.com
+Status Code: 200
+Frameworks: []
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:44:06] Checking: https://rei.com
+Status Code: 200
+Frameworks: ['ember', 'vue', 'angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:44:46] Checking: https://enjinusercontent.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:44:49] Checking: https://nft.io
+Status Code: 200
+Frameworks: ['vue', 'angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:44:59] Checking: https://platform.enjin.io
+Status Code: 200
+Frameworks: []
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:45:54] Checking: https://bancobmg.com.br
+Status Code: 200
+Frameworks: ['angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:46:26] Checking: https://help.com.br
+Status Code: 200
+Frameworks: ['angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:46:43] Checking: https://bmgconsig.com.br
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:46:51] Checking: https://www.coursera.org
+Status Code: 200
+Frameworks: ['ember', 'react', 'angular']
+✓ MATCH: REACT detected
+Reason: Found REACT
+
+================================================================================
+[2025-12-10 19:47:04] Checking: https://chatspot.ai
+Status Code: 200
+Frameworks: ['ember', 'angular']
+✗ SKIP: Neither React nor Next.js detected
+
+================================================================================
+[2025-12-10 19:47:31] Checking: https://hubspotpagebuilder.eu
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:47:37] Checking: https://hs-sites(-eu1)?.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:47:45] Checking: https://hubspotemail.net
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:47:54] Checking: https://apihubapi.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:47:59] Checking: https://apihubspot.com
+Status Code: None
+Frameworks: []
+✗ SKIP: Non-200 status code: No response
+
+================================================================================
+[2025-12-10 19:48:02] Checking: https://hubspotpagebuilder.com
+Status Code: 404
+Frameworks: []
+✗ SKIP: Non-200 status code: 404
+
+================================================================================
+[2025-12-10 19:48:05] Checking: https://apphubspot.com

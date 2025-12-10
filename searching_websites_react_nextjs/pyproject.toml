@@ -1,0 +1,12 @@
+[project]
+name = "find-programs"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.10"
+dependencies = [
+    "python-dotenv>=1.0.0",
+    "requests>=2.31.0",
+    "selenium>=4.15.0",
+    "wakepy>=0.9.0",
+    "webdriver-manager>=4.0.1",
+]
